@@ -27,9 +27,7 @@
 - **CSS3**
 
 ### Key Features <a name="key-features"></a>
-
-- **Html**
-- **Css**
+Displays Hello Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
