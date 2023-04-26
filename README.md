@@ -1,6 +1,8 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+- [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -17,6 +19,12 @@
 # 📖 Hello-Microverse-Project <a name="about-project"></a>
 
 **Hello-Microverse-Project** is a a project tha makes use of mainly html and css. It is a the first project in Microverse that goes through a code review and that follows github flow.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+- **HTML5**
+- **CSS3**
 
 ### Key Features <a name="key-features"></a>
 
