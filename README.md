@@ -31,11 +31,16 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need: gem install rails
+In order to run this project you need: 
+1. git
+2. an IDE of your choice
+3. npm package manager
 
 ### Setup
 
-Clone this repository to your desired folder: git clone https://github.com/Dancode-188/hello-microverse-project.git
+Clone this repository to your desired folder: 
+1. git clone https://github.com/Dancode-188/hello-microverse-project.git
+2. cd hello-microverse-project/
 
 ### Install
 
